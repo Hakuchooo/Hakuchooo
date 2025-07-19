@@ -15,8 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hakuchooo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Gandalf Quote  
+> *"All we have to decide is what to do with the time that is given us."*  
+> — **Gandalf, The Fellowship of the Ring**
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hakuchooo&limit=5&theme=radical&combine_all_yearly_contributions=true)
