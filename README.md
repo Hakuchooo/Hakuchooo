@@ -15,10 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hakuchooo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Gandalf Quote  
-> *"All we have to decide is what to do with the time that is given us."*  
-> — **Gandalf, The Fellowship of the Ring**
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hakuchooo&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -28,6 +24,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![Desolate Funeral Chant](https://ytcards.demolab.com/?id=qLyj_ngdixs&title=Desolate+Funeral+Chant&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=0)](https://music.youtube.com/watch?v=qLyj_ngdixs&list=LM)
+
 
 
 
