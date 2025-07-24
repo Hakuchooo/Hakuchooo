@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>          -Simple Python projects<br>          -Nas server<br>🌱 I’m currently learning<br>          -Python<br>          -Networking<br><br>          -NeoVim<br><br>
+🔭 I’m currently working on<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Simple Python projects<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- NAS server<br>
+🌱 I’m currently learning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Python<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Networking<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- NeoVim
+
 
 
 ## 🌐 Socials:
