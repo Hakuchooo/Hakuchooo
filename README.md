@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on:  <br>Learning the fundamentals of Python and building simple projects 👨‍💻<br><br>🌱 I’m currently learning:  <br>- Python basics  <br>- Linux<br>- Beginner Cyber Security Stuff<br><br>⚡ Fun fact:  <br>I dont have any
+🛠️ I’m currently working on:  <br>Learning the fundamentals of Python and building simple projects 👨‍💻<br><br>🌱 I’m currently learning:  <br>- Python basics  <br>- Linux<br>- Beginner Cyber Security Stuff<br><br>
 
 
 ## 🌐 Socials:
