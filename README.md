@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>          -Simple Python projects<br>          -Nas server<br>🌱 I’m currently learning<br>          -Python<br>          -Networking<br><br>
+🔭 I’m currently working on<br>          -Simple Python projects<br>          -Nas server<br>🌱 I’m currently learning<br>          -Python<br>          -Networking<br><br>          -NeoVim<br><br>
 
 
 ## 🌐 Socials:
