@@ -2,7 +2,8 @@
 
 # 🌐 Welcome to Hakuchooo's GitHub page
 
-🎴 Hello! I’m **Hakucho**, a programming student interested in operatinmg systems and programming 
+🎴 Hello! I’m **Hakucho**, a programming student interested in operating systems and programming.
+
 I’m currently learning:
 
  DSA
