@@ -14,7 +14,7 @@ I’m currently learning:
 
 ---
 
-![Alt Text](./source.gif)
+![Alt Text](./tumblr_mze915NS571rvbv2ko1_500.gif)
 
 
 `💾 Operating Systems ▪️ Servers ▪️ Cybersec`
