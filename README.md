@@ -14,6 +14,8 @@ I’m currently learning:
 
 ---
 
+![Alt Text](./source.gif)
+
 
 `💾 Operating Systems ▪️ Servers ▪️ Cybersec`
 
