@@ -7,7 +7,6 @@
 I’m currently learning:
 
  DSA
-• Security+ (CompTIA)
 • Python 
 
 
@@ -18,7 +17,7 @@ I’m currently learning:
 ![Alt Text](./tumblr_mze915NS571rvbv2ko1_500.gif)
 
 
-`💾 Operating Systems ▪️ Servers ▪️ Cybersec`
+`💾 Operating Systems ▪️ DSA ▪️ Python`
 
 ---
 
